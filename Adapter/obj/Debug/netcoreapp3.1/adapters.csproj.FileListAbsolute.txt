@@ -1,0 +1,15 @@
+C:\Users\karol\Desktop\Adapter\Adapter\obj\Debug\netcoreapp3.1\adapters.csprojAssemblyReference.cache
+C:\Users\karol\Desktop\Adapter\Adapter\obj\Debug\netcoreapp3.1\adapters.AssemblyInfoInputs.cache
+C:\Users\karol\Desktop\Adapter\Adapter\obj\Debug\netcoreapp3.1\adapters.AssemblyInfo.cs
+C:\Users\karol\Desktop\Adapter\Adapter\obj\Debug\netcoreapp3.1\adapters.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\Adapter\Adapter\bin\Debug\netcoreapp3.1\adapters.exe
+C:\Users\karol\Desktop\Adapter\Adapter\bin\Debug\netcoreapp3.1\adapters.deps.json
+C:\Users\karol\Desktop\Adapter\Adapter\bin\Debug\netcoreapp3.1\adapters.runtimeconfig.json
+C:\Users\karol\Desktop\Adapter\Adapter\bin\Debug\netcoreapp3.1\adapters.runtimeconfig.dev.json
+C:\Users\karol\Desktop\Adapter\Adapter\bin\Debug\netcoreapp3.1\adapters.dll
+C:\Users\karol\Desktop\Adapter\Adapter\bin\Debug\netcoreapp3.1\adapters.pdb
+C:\Users\karol\Desktop\Adapter\Adapter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\karol\Desktop\Adapter\Adapter\obj\Debug\netcoreapp3.1\adapters.csproj.CopyComplete
+C:\Users\karol\Desktop\Adapter\Adapter\obj\Debug\netcoreapp3.1\adapters.dll
+C:\Users\karol\Desktop\Adapter\Adapter\obj\Debug\netcoreapp3.1\adapters.pdb
+C:\Users\karol\Desktop\Adapter\Adapter\obj\Debug\netcoreapp3.1\adapters.genruntimeconfig.cache
